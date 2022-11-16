@@ -1,2 +1,5 @@
-package Сollections;public class Arrays {
+package Сollections;
+
+public class Arrays {
+
 }

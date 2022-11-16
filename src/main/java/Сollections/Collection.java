@@ -1,2 +1,5 @@
-package Сollections;public interface Collection {
+package Сollections;
+
+public interface Collection {
+    public void clear();
 }

@@ -1,18 +1,34 @@
 package Сollections;
 
-public class ArrayList<I extends Number> implements List {
+import java.awt.List;
+import java.util.*;
+import java.util.Iterator;
+
+public class ArrayList_1 {
     public static void main(String[] args) {
-        List<Integer> list = new ArrayList<Integer>();
-        list.add(8);
+        ArrayList<Integer> list = new ArrayList<Integer>();
+        list.add(9);
         list.add(5);
-        list.add(0);
+        list.add(20);
         list.add(2);
+        list.add(61);
+        list.add(57);
         list.add(6);
-        Iterator Itr = list.iterator();
+        list.add(82);
+        Iterator<Integer> Itr = list.iterator();
         while (Itr.hasNext()) {
             System.out.println(Itr.next());
         }
+        Collections.sort(list); //сортировка по возрастанию
+        System.out.println(list);
 
+        Collections.reverse(list); //сортировка по убыванию
+        System.out.println(list);
+
+        list.clear(); //очисть список
+        System.out.println(list);
     }
-
 }
+
+
+
