@@ -1,6 +1,5 @@
 package Сollections;
 
-import java.awt.List;
 import java.util.*;
 import java.util.Iterator;
 
