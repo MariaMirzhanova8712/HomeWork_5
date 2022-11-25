@@ -12,7 +12,9 @@ public class CatsAndDogs_5 {
         dogs.put("Muhtar", 8);
         dogs.put("Puma", 4);
         dogs.put("Bagira", 2);
-        cats.putAll(dogs);
-        System.out.println(cats);
+        HashMap<String, Integer> catsAndDogs = new HashMap<>(); //создали третью мапу
+        catsAndDogs.putAll(cats);
+        catsAndDogs.putAll(dogs);
+        System.out.println(catsAndDogs);
     }
 }

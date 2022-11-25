@@ -4,25 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7591d8c2-24cf-4aa4-9f3e-39ab34599521" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Сollections/ArrayList_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Сollections/ArrayList_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Сollections/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Сollections/CatsAndDogs_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Сollections/Collection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Сollections/House_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Сollections/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Сollections/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Сollections/Lottery_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Сollections/MaxMin_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Сollections/SolarSystem_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Сollections/Week.java" afterDir="false" />
+    <list default="true" id="7591d8c2-24cf-4aa4-9f3e-39ab34599521" name="Changes" comment="first commit for HomeWork №5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Сollections/Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Сollections/CatsAndDogs_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Сollections/CatsAndDogs_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Сollections/Collection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Сollections/Iterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Сollections/List.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Сollections/Week.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +47,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.House_3">
-    <configuration name="ArrayList_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Сollections.ArrayList_1" />
+  <component name="RunManager" selected="Application.CatsAndDogs_5">
+    <configuration name="ArrayList_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Сollections.ArrayList_2" />
       <module name="HomeWork_5" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayList_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Сollections.ArrayList_2" />
+    <configuration name="CatsAndDogs_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Сollections.CatsAndDogs_5" />
       <module name="HomeWork_5" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CatsAndDogs_5" />
         <item itemvalue="Application.House_3" />
         <item itemvalue="Application.Lottery_7" />
         <item itemvalue="Application.SolarSystem_6" />
         <item itemvalue="Application.ArrayList_2" />
-        <item itemvalue="Application.ArrayList_1" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +132,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668007428430</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit for HomeWork №5">
+      <created>1668615921298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668615921298</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,5 +152,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit for HomeWork №5" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit for HomeWork №5" />
   </component>
 </project>
